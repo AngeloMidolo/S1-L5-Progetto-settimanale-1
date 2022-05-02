@@ -1,0 +1,96 @@
+html {
+    font-size: 100%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+
+div h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: #25a2c3;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.corso {
+    text-align: center;
+    background-image: url(../images/banner.jpg);
+    height: 400px;
+    align-items: center;
+}
+
+.corso p {
+    padding: 50px;
+}
+
+.corso a {
+    margin: 50px;
+    background-color: #f04c2f;
+    font-weight: bold;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+h2 {
+    color: #25a2c3;
+    font-weight: bold;
+    padding: 20px;
+}
+
+p {
+    margin: 20px;
+}
+
+.cerchio {
+    border-radius: 50%;
+    align-items: center;
+    margin: 50px;
+    height: 400px;
+}
+
+.epicode {
+    background-color: #e22d0e;
+    color: white;
+}
+
+.epicode h2 {
+    color: white;
+    font-weight: bold;
+}
+
+/* .epicode cite {
+    padding: 20px;
+} */
+
+.container {
+    width: 400px;
+    border: 1px solid grey;
+    margin: 50px;
+}
+
+.container img {
+    width: 400px;
+}
+
+footer {
+    background-color: #25a2c3;
+    color: white;
+    padding: 30px;
+}
+
+footer h2 {
+    color: white;
+}
+
+footer a {
+    color: #c8e7f0;
+}
